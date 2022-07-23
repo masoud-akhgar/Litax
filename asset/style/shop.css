@@ -1,0 +1,11 @@
+.page-selector div {
+    background-color: rgb(13, 102, 27);
+    transition: all 0.5s;
+    opacity: 0.7;
+    border-radius: 50%;
+    ;
+}
+
+.page-selector div:hover {
+    opacity: 0.99;
+}
