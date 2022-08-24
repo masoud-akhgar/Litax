@@ -2,7 +2,7 @@
 
 Please open png files to see the appearance of the website.
 
-a full website developed by me...
+Data is extracted from Json files, and the website implemented by Jquery/Php/Json/Sql.
 
-The data was extracted through Json files, using Php. it was supposed that Json files are ready from an API.
+It was supposed that Json files are received from an API.
 
